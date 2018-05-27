@@ -1,0 +1,34 @@
+{
+  "name": "revolution/authorize-google-api",
+  "description": "Authorize HTTP Client Manager: Google API Driver",
+  "keywords": [
+    "authorize",
+    "google",
+    "laravel"
+  ],
+  "license": "MIT",
+  "require": {
+    "php": ">=7.0.0",
+    "google/apiclient": "^2.2",
+    "illuminate/support": "^5.5",
+    "revolution/authorize": "dev-master"
+  }
+  "autoload": {
+    "psr-4": {
+      "Revolution\\Authorize\\GoogleApi\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "kawax",
+      "email": "kawaxbiz@gmail.com"
+    }
+  ],
+  "extra": {
+    "laravel": {
+      "providers": [
+        "Revolution\\Authorize\\GoogleApi\\GoogleApiServiceProvider"
+      ]
+    }
+  }
+}
