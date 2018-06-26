@@ -1,6 +1,6 @@
 # Authorize HTTP Client Manager: Google API Driver
 
-- https://github.com/kawax/authorize
+- https://github.com/kawax/authorize-manager
 - https://github.com/google/google-api-php-client
 
 ## Requirements
