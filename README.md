@@ -4,8 +4,8 @@
 - https://github.com/google/google-api-php-client
 
 ## Requirements
-- PHP >= 7.0
-- Laravel >= 5.5
+- PHP >= 7.2
+- Laravel >= 5.8
 
 ## Installation
 
