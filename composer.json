@@ -8,9 +8,9 @@
   ],
   "license": "MIT",
   "require": {
-    "php": ">=7.0.0",
+    "php": "^7.2||^8.0",
     "google/apiclient": "^2.2",
-    "illuminate/support": "^5.5",
+    "illuminate/support": "*",
     "revolution/authorize-manager": "dev-master"
   },
   "autoload": {
